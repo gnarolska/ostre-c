@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Wypozyczalnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WszystkieFilmy>
+    <Film xsi:type="ScienceFiction">
+      <Tytul>Blade Runner</Tytul>
+      <Rezyser>Ridley Scott</Rezyser>
+      <DataWydania>1982-06-25T00:00:00</DataWydania>
+      <Id>ID-1982-3-Sci-fi</Id>
+    </Film>
+    <Film xsi:type="Biograficzny">
+      <Tytul>Bohemian Rhapsody</Tytul>
+      <Rezyser>Bryan Singer</Rezyser>
+      <DataWydania>2018-10-24T00:00:00</DataWydania>
+      <Id>ID-2018-6-BIO</Id>
+    </Film>
+    <Film xsi:type="Horror">
+      <Tytul>Egzorcysta</Tytul>
+      <Rezyser>William Friedkin</Rezyser>
+      <DataWydania>1973-12-26T00:00:00</DataWydania>
+      <Id>ID-1973-9-HOR</Id>
+    </Film>
+    <Film xsi:type="Historyczny">
+      <Tytul>Gladiator</Tytul>
+      <Rezyser>Ridley Scott</Rezyser>
+      <DataWydania>2000-05-01T00:00:00</DataWydania>
+      <Id>ID-2000-2-HIS</Id>
+    </Film>
+    <Film xsi:type="Fantasy">
+      <Tytul>Harry Potter i Kamień Filozoficzny</Tytul>
+      <Rezyser>Chris Columbus</Rezyser>
+      <DataWydania>2001-11-16T00:00:00</DataWydania>
+      <Id>ID-2001-12-fan</Id>
+    </Film>
+    <Film xsi:type="DlaDzieci">
+      <Tytul>Król Lew</Tytul>
+      <Rezyser>Roger Allers, Rob Minkoff</Rezyser>
+      <DataWydania>1994-06-15T00:00:00</DataWydania>
+      <Id>ID-1994-7-kid</Id>
+    </Film>
+    <Film xsi:type="Historyczny">
+      <Tytul>Lista Schindlera</Tytul>
+      <Rezyser>Steven Spielberg</Rezyser>
+      <DataWydania>1993-12-15T00:00:00</DataWydania>
+      <Id>ID-1993-1-HIS</Id>
+    </Film>
+    <Film xsi:type="Horror">
+      <Tytul>Lśnienie</Tytul>
+      <Rezyser>Stanley Kubrick</Rezyser>
+      <DataWydania>1980-05-23T00:00:00</DataWydania>
+      <Id>ID-1980-10-HOR</Id>
+    </Film>
+    <Film xsi:type="ScienceFiction">
+      <Tytul>Matrix</Tytul>
+      <Rezyser>Lana Wachowski, Lilly Wachowski</Rezyser>
+      <DataWydania>1999-03-31T00:00:00</DataWydania>
+      <Id>ID-1999-4-Sci-fi</Id>
+    </Film>
+    <Film xsi:type="Edukacyjny">
+      <Tytul>Nasza planeta</Tytul>
+      <Rezyser>Alastair Fothergill</Rezyser>
+      <DataWydania>2019-04-05T00:00:00</DataWydania>
+      <Id>ID-2019-14-Edu</Id>
+    </Film>
+    <Film xsi:type="Edukacyjny">
+      <Tytul>Niewygodna prawda</Tytul>
+      <Rezyser>Davis Guggenheim</Rezyser>
+      <DataWydania>2006-05-24T00:00:00</DataWydania>
+      <Id>ID-2006-13-Edu</Id>
+    </Film>
+    <Film xsi:type="DlaDzieci">
+      <Tytul>Shrek</Tytul>
+      <Rezyser>Andrew Adamson, Vicky Jenson</Rezyser>
+      <DataWydania>2001-05-18T00:00:00</DataWydania>
+      <Id>ID-2001-8-kid</Id>
+    </Film>
+    <Film xsi:type="Biograficzny">
+      <Tytul>Teoria wszystkiego</Tytul>
+      <Rezyser>James Marsh</Rezyser>
+      <DataWydania>2014-11-07T00:00:00</DataWydania>
+      <Id>ID-2014-5-BIO</Id>
+    </Film>
+    <Film xsi:type="Fantasy">
+      <Tytul>Władca Pierścieni: Drużyna Pierścienia</Tytul>
+      <Rezyser>Peter Jackson</Rezyser>
+      <DataWydania>2001-12-19T00:00:00</DataWydania>
+      <Id>ID-2001-11-fan</Id>
+    </Film>
+  </WszystkieFilmy>
+</Wypozyczalnia>
